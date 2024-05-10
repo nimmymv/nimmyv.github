@@ -6,3 +6,6 @@ true_false=True
 o=n+m
 name="nimmy" + last
 false= not true_false
+print(o)
+print(name)
+print(false)
